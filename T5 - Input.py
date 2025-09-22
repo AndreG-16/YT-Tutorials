@@ -1,0 +1,8 @@
+print("Hallo Nutzer")
+name = input("Wie heißt du?")
+print("Schön dich kennenzulernen, " + name)
+age = input("Wie alt bist du?")
+print("Das glaube ich dir nicht. Du siehst so aus als wärst du mindestens 40")
+input("Bist du dir sicher?")
+print("Na gut, dann glaube ich dir einfach mal...")
+print('Jetzt darfst du wieder "arbeiten". Ciao!')
