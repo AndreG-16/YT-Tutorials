@@ -1,7 +1,7 @@
 x1 = input("Erste Zahl eingeben: ")
 x2 = input("Zweite Zahl eingeben: ")
 print(int(x1) * int(x2)) 
-#int führ dazu, dass x1 und x2 als Zahlen und nicht String erkannt werden
+#int führt dazu, dass x1 und x2 als Zahlen und nicht String erkannt werden
 
 y1 = int(input("Dritte Zahl eingeben: "))
 y2 = int(input("Vierte Zahl eingeben: "))
